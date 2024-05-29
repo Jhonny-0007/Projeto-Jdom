@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cadastros>
+  <pessoa id="20">
+    <nome>Bruno</nome>
+    <codigo>0</codigo>
+  </pessoa>
+  <pessoa id="21">
+    <nome>Gabriel</nome>
+    <codigo>1</codigo>
+  </pessoa>
+  <pessoa id="22">
+    <nome>José</nome>
+    <codigo>2</codigo>
+  </pessoa>
+  <pessoa id="720">
+    <nome>Paulo</nome>
+    <codigo>7</codigo>
+  </pessoa>
+</cadastros>
